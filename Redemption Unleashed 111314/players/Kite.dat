@@ -1,0 +1,10 @@
+room:^:5720
+class:^:runist
+hp:^:(*int)98
+password:^:12345
+race:^:elf
+version:^:(*int)0
+max_hp:^:(*int)100
+name:^:Kite
+desc:^:
+position:^:(*int)2
